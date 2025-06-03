@@ -2,7 +2,7 @@ const CONFIG = {
   // 封面大图
   COMMERCE_HOME_BANNER_ENABLE: true,
 
-  COMMERCE_TEXT_CENTER_TITLE: 'Product Center', // 中间产品区块标题
+  COMMERCE_TEXT_CENTER_TITLE: '没想好写啥', // 中间产品区块标题
   COMMERCE_TEXT_CENTER_DESCRIPTION:
     'The vision of NotionNext is to help you effortlessly and seamlessly build your own website, amplifying the value of your brand.', // 中间产品区块文字描述
   COMMERCE_TEXT_CENTER_CATEGORY_TITLE: 'Product Categories', // 左侧产品分类标题
