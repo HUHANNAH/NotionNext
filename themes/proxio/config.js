@@ -177,10 +177,10 @@ const CONFIG = {
     // 横向滚动文字
     PROXIO_BRANDS_ENABLE: true, // 滚动文字
     PROXIO_BRANDS: [
-        'Web Design',
-        'Logo Design',
-        'Mobile App Design',
-        'Product Design'
+        '游戏制作',
+        '3D艺术',
+        '创意写作',
+        '我都不会'
     ],
 
     PROXIO_FOOTER_SLOGAN: '我们通过技术为品牌和公司创造数字体验。',
@@ -192,19 +192,23 @@ const CONFIG = {
             name: '友情链接',
             menus: [
                 {
-                    title: 'Tangly的学习笔记',
-                    href: 'https://blog.tangly1024.com'
+                    title: '旧北的TA学习笔记',
+                    href: 'https://pointy-pest-6a7.notion.site/1d45bc40b36b803c9107c9994ff625eb?v=1d45bc40b36b819f944b000cbb30f17d&source=copy_link'
                 },
                 {
-                    title: 'NotionNext',
-                    href: 'https://www.tangly1024.com'
+                    title: '旧北的B站主页',
+                    href: 'https://space.bilibili.com/1734060793?spm_id_from=333.788.0.0'
+                },
+                {
+                    title: '旧北的Github主页',
+                    href: 'https://github.com/HUHANNAH'
                 }
             ]
         },
         {
-            name: '开发者',
+            name: '如何做这样的网站',
             menus: [
-                { title: 'Github', href: 'https://github.com/tangly1024/NotionNext' },
+                { title: 'NotionNext开源项目', href: 'https://github.com/tangly1024/NotionNext' },
                 {
                     title: '开发帮助',
                     href: 'https://docs.tangly1024.com/article/how-to-develop-with-notion-next'
@@ -218,7 +222,7 @@ const CONFIG = {
                     href: 'https://github.com/tangly1024/NotionNext/discussions'
                 },
                 {
-                    title: '关于作者',
+                    title: '关于NotionNext的作者',
                     href: 'https://blog.tangly1024.com/about'
                 }
             ]
